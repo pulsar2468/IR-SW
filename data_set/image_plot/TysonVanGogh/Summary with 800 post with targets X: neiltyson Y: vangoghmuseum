@@ -1,0 +1,18 @@
+--Number of tweet postX and Number of tweet postY--
+800-800
+
+--Comparison similarity--
+Jaccard: 0.045768025078369905
+Vector model: 0.08646097923865592
+Vector Model with WordnetV2: 0.11708109718786996
+Time Vector model: 0.25455355644226074
+Time with WordnetV2: 510.8440170288086
+Time with Jaccard: 0.0002994537353515625
+The top 40 most commons words of the targetX:
+
+[('life', 25), ('moon', 25), ('pluto', 24), ('science', 21), ('cosmic', 19), ('future', 18), ('posted', 17), ('film', 16), ('universe', 14), ('second', 13), ('wonder', 13), ('cubs', 13), ('discovered', 11), ('long', 10), ('best', 10), ('follow', 10), ('true', 10), ('super', 10), ('evidence', 9), ('blue', 9), ('queries', 9), ('does', 8), ('surely', 7), ('possible', 7), ('envisioned', 7), ('venus', 7), ('feel', 7), ('june', 7), ('nice', 7), ('different', 6), ('force', 6), ('jupiter', 6), ('need', 6), ('orbit', 6), ('extended', 6), ('apollo', 6), ('went', 6), ('geek', 6), ('geeky', 6), ('likely', 6)]
+
+The top 40 most commons words of the targetY:
+
+[('vincent', 66), ('onze', 35), ('voor', 32), ('museum', 25), ('zijn', 21), ('work', 17), ('hope', 11), ('bezoekers', 11), ('meer', 10), ('veel', 10), ('discover', 9), ('live', 9), ('works', 9), ('niet', 9), ('deze', 9), ('question', 8), ('press', 8), ('kunt', 8), ('life', 8), ('monet', 8), ('visit', 7), ('little', 7), ('inspired', 7), ('lezen', 7), ('come', 7), ('sept', 7), ('tentoonstelling', 7), ('kunnen', 7), ('collection', 7), ('kunst', 7), ('series', 6), ('zoek', 6), ('ticket', 6), ('colours', 6), ('nieuwe', 6), ('longer', 6), ('enjoyed', 6), ('foto', 5), ('onder', 5), ('tijdens', 5)]
+

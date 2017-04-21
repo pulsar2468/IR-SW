@@ -1,0 +1,19 @@
+--Number of tweet postX and Number of tweet postY--
+800-800
+
+--Comparison similarity--
+Jaccard: 0.025212636695018227
+Vector model: 0.136859439210066
+Vector Model with WordnetV2: 0.15779735788326657
+Time Vector model: 0.23442769050598145
+Time with WordnetV2: 300.2334475517273
+Time with Jaccard: 0.0004074573516845703
+
+The top 40 most commons words of the targetX:
+
+[('discover', 170), ('free', 98), ('feel', 59), ('osho', 59), ('resort', 23), ('life', 23), ('priests', 21), ('click', 21), ('weeks', 20), ('soul', 20), ('inner', 18), ('busy', 16), ('course', 16), ('experience', 14), ('listen', 13), ('explore', 13), ('series', 11), ('wonderful', 11), ('anytime', 10), ('come', 9), ('registered', 8), ('visit', 8), ('subtitles', 6), ('live', 6), ('youtube', 6), ('service', 6), ('book', 6), ('mind', 5), ('living', 5), ('sufi', 5), ('minutes', 5), ('register', 5), ('icon', 5), ('tried', 5), ('does', 5), ('newsletter', 5), ('little', 4), ('looking', 4), ('welcome', 4), ('bliss', 4)]
+
+The top 40 most commons words of the targetY:
+
+[('hhdl', 125), ('live', 84), ('need', 63), ('inner', 60), ('mind', 50), ('sense', 48), ('concern', 47), ('source', 29), ('trust', 27), ('june', 26), ('april', 25), ('develop', 25), ('genuine', 24), ('october', 22), ('beings', 20), ('positive', 20), ('july', 20), ('life', 20), ('clip', 18), ('religious', 17), ('depends', 17), ('respect', 14), ('holiness', 14), ('better', 13), ('university', 13), ('bring', 13), ('video', 12), ('comes', 12), ('gives', 11), ('religion', 11), ('visit', 11), ('best', 11), ('needs', 11), ('emotions', 11), ('november', 11), ('work', 10), ('violence', 10), ('lives', 10), ('forgiveness', 10), ('public', 9)]
+

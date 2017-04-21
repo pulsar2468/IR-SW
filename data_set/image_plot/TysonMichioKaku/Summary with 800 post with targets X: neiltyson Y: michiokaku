@@ -1,0 +1,18 @@
+--Number of tweet postX and Number of tweet postY--
+800-800
+
+--Comparison similarity--
+Jaccard: 0.058367911479944676
+Vector model: 0.14542476675037372
+Vector Model with WordnetV2: 0.1900730826525441
+Time Vector model: 0.29944944381713867
+Time with WordnetV2: 703.9778742790222
+Time with Jaccard: 0.0003523826599121094
+The top 40 most commons words of the targetX:
+
+[('life', 25), ('moon', 25), ('pluto', 24), ('science', 21), ('cosmic', 19), ('future', 18), ('posted', 17), ('film', 16), ('universe', 14), ('cubs', 13), ('wonder', 13), ('second', 13), ('discovered', 11), ('best', 10), ('follow', 10), ('long', 10), ('super', 10), ('true', 10), ('queries', 9), ('blue', 9), ('evidence', 9), ('does', 8), ('possible', 7), ('venus', 7), ('june', 7), ('nice', 7), ('feel', 7), ('envisioned', 7), ('surely', 7), ('died', 6), ('geek', 6), ('apollo', 6), ('orbit', 6), ('force', 6), ('likely', 6), ('geeky', 6), ('went', 6), ('extended', 6), ('jupiter', 6), ('need', 6)]
+
+The top 40 most commons words of the targetY:
+
+[('science', 102), ('future', 83), ('book', 45), ('universe', 31), ('discovery', 25), ('video', 21), ('weekend', 21), ('discuss', 20), ('college', 19), ('question', 19), ('msnbc', 18), ('conference', 17), ('lecture', 17), ('visit', 16), ('city', 15), ('event', 14), ('live', 14), ('best', 13), ('center', 13), ('engineers', 12), ('higgs', 11), ('business', 11), ('sold', 11), ('mind', 11), ('crowd', 10), ('convention', 10), ('possible', 9), ('curiosity', 9), ('students', 9), ('lecturing', 9), ('series', 8), ('room', 8), ('university', 8), ('forget', 8), ('signed', 8), ('free', 8), ('times', 8), ('questions', 8), ('wrote', 7), ('forces', 7)]
+
